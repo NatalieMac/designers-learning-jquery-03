@@ -1,0 +1,13 @@
+body {
+	background: MistyRose;
+	color: DeepPink;
+}
+
+.content {
+	width: 75%;
+	margin: 1em auto;
+}
+
+.highlight {
+	background: PapayaWhip;
+}
